@@ -1,4 +1,5 @@
 # newsletter
+https://github.com/diegoleonardoro/newsletter/blob/main/newsletterbackend.ts
 
 This class integrates MongoDB for data storage, Redis for caching, and SendGrid for email services. It includes:
 
